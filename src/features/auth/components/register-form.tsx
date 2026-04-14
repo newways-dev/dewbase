@@ -39,6 +39,13 @@ const registerSchema = z
 
 type RegisterFormValues = z.infer<typeof registerSchema>
 
+/**
+ * Render a registration form UI for creating a new account.
+ *
+ * The component validates `email`, `password`, and `confirmPassword` using the defined Zod schema, submits credentials via `authClient.signUp.email`, navigates to `/` on successful sign-up, and shows an error toast on failure. Interactive controls (social buttons and submit) are disabled while the form is submitting.
+ *
+ * @returns A React element that renders the sign-up card with social buttons, form fields for email/password/confirmPassword, a submit button, and a link to the login page.
+ */
 export function RegisterForm() {
   const router = useRouter()
 
