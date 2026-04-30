@@ -1,0 +1,78 @@
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [lib::proc::proc] Process spawn error: WinProcess::spawn
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\nvm4w\\nodejs\\npm run inngest:dev\0"` in cwd `Some("E:\\dewbase\0")` failed: %1 не является приложением Win32. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\nvm4w\\nodejs\\npm run dev\0"` in cwd `Some("E:\\dewbase\0")` failed: %1 не является приложением Win32. (os error 193)
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\nvm4w\\nodejs\\npm run inngest:dev\0"` in cwd `Some("E:\\dewbase\0")` failed: %1 не является приложением Win32. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\nvm4w\\nodejs\\npm run dev\0"` in cwd `Some("E:\\dewbase\0")` failed: %1 не является приложением Win32. (os error 193)
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\nvm4w\\nodejs\\npm run inngest:dev\0"` in cwd `Some("E:\\dewbase\0")` failed: %1 не является приложением Win32. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\nvm4w\\nodejs\\npm run dev\0"` in cwd `Some("E:\\dewbase\0")` failed: %1 не является приложением Win32. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\nvm4w\\nodejs\\npm run inngest:dev\0"` in cwd `Some("E:\\dewbase\0")` failed: %1 не является приложением Win32. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\nvm4w\\nodejs\\npm run dev\0"` in cwd `Some("E:\\dewbase\0")` failed: %1 не является приложением Win32. (os error 193)
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\nvm4w\\nodejs\\npm run inngest:dev\0"` in cwd `Some("E:\\dewbase\0")` failed: %1 не является приложением Win32. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\nvm4w\\nodejs\\npm run dev\0"` in cwd `Some("E:\\dewbase\0")` failed: %1 не является приложением Win32. (os error 193)
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
